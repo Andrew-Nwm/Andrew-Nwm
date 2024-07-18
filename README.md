@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, soy <a href="https://github.com/Andrew-Nwm" target="blank">Andres Rivas!</a></h1>
 
-<p align="left">
+<p align="center">
 <h3>Desarrollador backend con experiencia en el diseño de webs y aplicaciones tanto moviles como de escritorio</h3>
 
-🎓Estudiante de Ingeniería en sistemas
+🎓**Estudiante de Ingeniería en sistemas**
 
 💻 En mi tiempo libre me gusta escribir y hacer deporte!
 
-📝 Roles en el ámbito: Desarrollador... Líder... Programador Freelance... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: Desarrollador, líder, programador freelance y en un futuro quién sabe ☺️
 
 📫 Contacto: **andrewsdev09@gmail.com**
 <!--Intro end-->
