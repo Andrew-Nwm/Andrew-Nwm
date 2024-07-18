@@ -1,8 +1,5 @@
 <h1 align="center">Hola 👋, soy <a href="https://github.com/Andrew-Nwm" target="blank">Andres Rivas!</a></h1>
 
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
 <p align="left">
 <h3>Desarrollador backend con experiencia en el diseño de webs y aplicaciones tanto moviles como de escritorio</h3>
 
