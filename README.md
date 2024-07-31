@@ -20,7 +20,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente estoy trabajando en un proyecto colaborativo con desarrolladores de la comunidad **Nuvix.**
+- 🔭 Actualmente estoy trabajando en un proyecto colaborativo con desarrolladores de la comunidad **Nuvix** y **Vopper.**
 
 - 🌱 Actualmente estoy desarrollando una aplicación de escritorio implementando diversas tecnologías.
 
