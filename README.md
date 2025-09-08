@@ -7,7 +7,7 @@
 
 💻 En mi tiempo libre me gusta escribir y hacer deporte!
 
-📝 Roles en el ámbito: Desarrollador, líder, programador freelance y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: Desarrollador, Diseñador UI/UX, Líder, Programador Freelance y en un futuro quién sabe ☺️
 
 📫 Contacto: **andrewsdev09@gmail.com**
 <!--Intro end-->
@@ -20,13 +20,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente estoy trabajando en un proyecto colaborativo con desarrolladores de la comunidad **Nuvix** y **Vopper.**
+- 🔭 Actualmente estoy trabajando como CEO y Fundador en **Quantyx Tech Solutions** y en un proyecto para **CIT Fundacion.**
 
-- 🌱 Actualmente estoy desarrollando una aplicación de escritorio implementando diversas tecnologías.
+- 🌱 Actualmente estoy diseñando y desarrollando una aplicación para retos de programación, redes y ciberseguridad.
 
 - 🤝 Estoy disponible para trabajos freelancer.
 
-- 🌱 Actualmente estoy aprendiendo **Java FX y CSS**.
+- 🌱 Actualmente estoy aprendiendo **SpringBoot y Angular**.
 
 - 💬 Pregúntame sobre **Java & Figma**.
 
@@ -55,7 +55,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,kotlin,mysql,sqlite,postgres,maven,git,github,eclipse,vscode,figma,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,js,ts,figma,mysql,sqlite,postgres,git,github,eclipse,vscode" />
   </a>
 </p>
 <br>
